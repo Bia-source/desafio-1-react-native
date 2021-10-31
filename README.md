@@ -1,7 +1,7 @@
 # Desafio-1-react-native
 
 ## Sobre o projeto
-Desafio proposto pela Rocketseat para...
+Desafio de listagem proposto pela Rocketseat
 
 ## Como executar
 ### Comandos: 
@@ -11,5 +11,4 @@ Desafio proposto pela Rocketseat para...
 ## Porta utilizada
 http://localhost:3000
 
-# Autora
-Beatriz Ferreira dos Santos  
+
